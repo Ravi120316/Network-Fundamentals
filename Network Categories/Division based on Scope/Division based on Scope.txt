@@ -1,0 +1,34 @@
+# Network Categories: Division Based on Scope
+
+Networks can be classified based on their geographical coverage.
+
+## 1. LAN (Local Area Network)
+- **Scope:** Small area like room, office, or building
+- **Purpose:** Connects computers to share resources (files, printers, internet)
+- **Characteristics:** High speed, low cost, privately managed
+- **Example:** Office network connecting PCs and printers
+
+## 2. MAN (Metropolitan Area Network)
+- **Scope:** City or metropolitan area
+- **Purpose:** Connects multiple LANs within a city
+- **Characteristics:** Medium speed, larger area than LAN, usually managed by service providers
+- **Example:** City-wide government network, college campus network
+
+## 3. WAN (Wide Area Network)
+- **Scope:** Large geographical area (state, country, worldwide)
+- **Purpose:** Connects multiple LANs and MANs over long distances
+- **Characteristics:** Lower speed than LAN/MAN, high cost, managed by telecom providers
+- **Example:** The Internet, international company network
+
+## 4. PAN (Personal Area Network)
+- **Scope:** Very small, personal devices (few meters)
+- **Purpose:** Connects personal devices for data transfer
+- **Characteristics:** Wireless, low range, simple devices
+- **Example:** Smartphone connected to laptop via Bluetooth, wireless headphones
+
+## 5. CAN (Campus Area Network)
+- **Scope:** Within a campus (college, corporate office)
+- **Purpose:** Connects multiple LANs within a campus
+- **Characteristics:** Medium coverage, high-speed, privately managed
+- **Example:** University network connecting all departments
+
