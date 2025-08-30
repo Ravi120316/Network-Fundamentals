@@ -1,0 +1,24 @@
+# Network Categories: Division Based on Connection (Including MANETs & Sensor Networks)
+
+Networks can be classified based on how devices are connected.
+
+## 1. Wired Network
+- **Definition:** Devices connected using physical cables (Ethernet, coaxial, fiber optic)
+- **Characteristics:** Reliable, stable, high speed, low latency, less interference
+- **Example:** Office LAN using Ethernet cables
+
+## 2. Wireless Network
+- **Definition:** Devices connected without cables using radio waves, Wi-Fi, Bluetooth, infrared, microwave
+- **Characteristics:** Flexible, mobile, easy to install, slightly slower, prone to interference
+- **Example:** Home Wi-Fi, Bluetooth headphones
+
+## 3. MANET (Mobile Ad hoc Network) 
+- **Definition:** Wireless, self-configuring network of mobile devices without fixed infrastructure
+- **Characteristics:** Devices act as hosts and routers, dynamic topology, used in emergency and military applications
+- **Example:** Network of smartphones in a disaster area, battlefield communication
+
+## 4. Sensor Network 
+- **Definition:** Network of spatially distributed sensors to monitor environmental or physical conditions
+- **Characteristics:** Collects data like temperature, pressure, or motion; wireless and low-power devices; data sent to central system for analysis
+- **Example:** Smart agriculture sensors, home security sensors
+
