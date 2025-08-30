@@ -1,0 +1,33 @@
+# Prerequisites of a Network
+
+Before setting up a network, certain requirements must be fulfilled to ensure proper functionality.
+
+## 1. Hardware Requirements
+- Computers / Hosts
+- Network Interface Card (NIC)
+- Cabling / Media (Wired or Wireless)
+- Network Devices (Switch, Router, Hub, Access Point)
+
+## 2. Software Requirements
+- Operating System with networking support
+- Network Protocols (TCP/IP)
+- Network Services (DHCP, DNS)
+
+## 3. Transmission Medium
+- Path through which data travels
+- Types:
+  - Wired: Twisted Pair, Coaxial Cable, Fiber Optic
+  - Wireless: Radio Waves, Wi-Fi, Infrared, Microwave
+
+## 4. Addressing Scheme
+- Each device must have a unique address
+- Usually done using IP addresses
+
+## 5. Network Topology
+- Layout of devices in a network
+- Common topologies: Star, Bus, Ring, Mesh
+
+## 6. Purpose and Planning
+- Define clear purpose (file sharing, internet, printers)
+- Proper planning ensures scalability, security, efficiency
+
