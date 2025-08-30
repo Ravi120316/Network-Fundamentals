@@ -1,0 +1,19 @@
+# Definition of Network
+
+A network is a collection of two or more computers or devices that are connected to share resources, exchange data, and communicate with each other.
+
+## Key Points
+1. **Connectivity:** Devices are physically or wirelessly connected.
+2. **Resource Sharing:** Enables sharing of files, printers, internet, etc.
+3. **Communication:** Allows sending and receiving of data between devices.
+4. **Protocols:** Communication follows rules known as protocols (e.g., TCP/IP).
+5. **Scale:** Can be small (LAN) or large (WAN) depending on coverage.
+
+## Simple Definition
+> A network is a set of interconnected computers that communicate and share resources with each other.
+
+## Examples
+- Home Wi-Fi connecting multiple devices
+- Office network connecting computers to printers and servers
+- Internet, a global network of networks
+
