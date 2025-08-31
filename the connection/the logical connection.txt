@@ -1,0 +1,31 @@
+# Logical Connection
+
+A **Logical Connection** defines how devices in a network communicate with each other at a logical level, regardless of the physical medium (wired/wireless).  
+It represents the **path and rules** for data flow between devices.
+
+---
+
+## 1. Point-to-Point Logical Connection
+- A direct logical path exists between two devices.
+- Data is exchanged only between the sender and receiver.
+- **Example:** Computer ↔ Printer connection.
+
+---
+
+## 2. Broadcast Logical Connection
+- A message sent by one device is delivered to **all devices** in the network.
+- Useful for announcements or discovery protocols.
+- **Example:** ARP request in a LAN.
+
+---
+
+## 3. Multipoint / Multicast Logical Connection
+- A message is delivered to a **specific group of devices**, not to everyone.
+- Efficient for applications where the same data must reach multiple receivers.
+- **Example:** Online video streaming to a selected group of users.
+
+---
+
+## Key Difference
+- **Physical Connection** → The medium (cables or wireless signals).  
+- **Logical Connection** → The logical data path (point-to-point, broadcast, multicast).
