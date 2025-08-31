@@ -1,0 +1,38 @@
+# Quality of Service (QoS) Issues
+
+**Quality of Service (QoS)** refers to the ability of a network to provide reliable, predictable, and efficient communication services.  
+QoS defines how well the network performs for applications such as video streaming, VoIP, and online gaming.
+
+---
+
+## Key QoS Parameters
+1. **Bandwidth** → Maximum data transfer rate of the network.
+2. **Latency (Delay)** → Time taken for data to travel from source to destination.
+3. **Jitter** → Variation in packet delay; harmful for real-time applications.
+4. **Packet Loss** → Packets dropped during transmission, leading to poor audio/video quality.
+5. **Reliability** → Stability and consistency of the network service.
+
+---
+
+## Causes of QoS Issues
+- **Network Congestion** → Too many users sharing the same bandwidth.
+- **Insufficient Bandwidth Allocation**.
+- **Hardware Failures** → Faulty routers, switches, or wireless APs.
+- **Unstable Wireless Connections**.
+- **Lack of QoS Mechanisms** → No traffic prioritization.
+
+---
+
+## Solutions to QoS Issues
+- Implement **Traffic Prioritization** (e.g., give VoIP higher priority than bulk downloads).
+- Allocate **sufficient bandwidth** per application.
+- Use **Error Detection and Correction** methods.
+- Apply **QoS Standards** like:
+  - **IntServ (Integrated Services)** → Guarantees bandwidth for specific flows.
+  - **DiffServ (Differentiated Services)** → Classifies and prioritizes traffic categories.
+
+---
+
+## Conclusion
+QoS issues directly affect **user experience** in modern networks.  
+Proper resource allocation, prioritization, and error control are essential for ensuring smooth communication.
