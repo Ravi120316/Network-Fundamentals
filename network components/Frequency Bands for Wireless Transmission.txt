@@ -1,0 +1,40 @@
+# Frequency Bands for Wireless Transmission
+
+Wireless communication uses radio waves that are divided into different frequency bands, each serving specific purposes.
+
+## 1. Radio Frequency (RF) Band
+- **Range:** 3 kHz – 300 MHz
+- **Uses:** AM/FM radio, maritime communication, walkie-talkies
+- **Note:** Supports long distance but low data rate
+
+## 2. Microwave Band
+- **Range:** 300 MHz – 300 GHz
+- **Uses:** Wi-Fi, Bluetooth, microwave links, radar
+- **Note:** Shorter wavelength, higher data transfer speed
+
+## 3. Infrared (IR) Band
+- **Range:** 300 GHz – 430 THz
+- **Uses:** Remote controls, short-range communication
+- **Note:** Requires line of sight (LOS)
+
+## 4. Visible Light Band
+- **Range:** 430 THz – 770 THz
+- **Uses:** Li-Fi, optical communication
+- **Note:** Extremely high speed, requires LOS
+
+## Special Frequency Bands for Wireless Communication
+- **2.4 GHz Band (ISM):**
+  - Common for Wi-Fi (802.11b/g/n), Bluetooth, microwave ovens
+  - Longer range, more interference
+- **5 GHz Band:**
+  - Used in modern Wi-Fi (802.11ac/ax)
+  - Faster speed, less interference, shorter range
+- **60 GHz Band (Millimeter Waves):**
+  - Used in 5G and high-speed short-range communication
+
+## Summary
+- **RF:** Radio, long distance, low speed
+- **Microwave:** Wi-Fi, Bluetooth, radar
+- **Infrared:** Remote controls, short range
+- **Visible Light:** Li-Fi, very high speed
+- **2.4 & 5 GHz Bands:** Common Wi-Fi and Bluetooth frequencies
