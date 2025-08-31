@@ -1,0 +1,34 @@
+# Standardization of Services
+
+**Standardization of Services** ensures that network services provided by each layer follow a set of international rules and formats, allowing devices and applications from different vendors to work together seamlessly.
+
+---
+
+## Importance of Standardization
+1. **Interoperability** → Devices from different manufacturers can communicate without issues.
+2. **Compatibility** → Old and new technologies can coexist and function together.
+3. **Scalability** → Networks can grow and expand easily.
+4. **Reliability** → Fewer errors as all systems follow the same rules.
+
+---
+
+## Examples of Standards
+- **TCP/IP Protocol Suite** → Basis of Internet communication.
+- **IEEE 802.11** → Wi-Fi communication standard.
+- **IEEE 802.3** → Ethernet (LAN) standard.
+- **OSI Reference Model** → Provides a universal layered framework.
+- **HTTP, SMTP, FTP** → Standardized application layer services.
+
+---
+
+## Standardization Bodies
+- **ISO (International Organization for Standardization)** → Designed the OSI model.
+- **IEEE (Institute of Electrical and Electronics Engineers)** → Defines standards for LAN, MAN (e.g., 802 series).
+- **IETF (Internet Engineering Task Force)** → Develops Internet standards like TCP/IP.
+- **ITU (International Telecommunication Union)** → Responsible for telecommunication standards.
+
+---
+
+## Conclusion
+Without standardization, global networking would not be possible.  
+It ensures **uniformity, compatibility, and interoperability** across all types of networks and devices.
