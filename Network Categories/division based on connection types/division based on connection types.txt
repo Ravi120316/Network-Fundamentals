@@ -1,0 +1,23 @@
+# Network Categories: Division Based on Communication Types
+
+Networks can be classified based on how communication occurs between devices.
+
+## 1. Unicast Communication
+- **Definition:** One sender communicates with one receiver
+- **Characteristics:** One-to-one, efficient for private data transfer
+- **Example:** Sending an email to one person, file transfer between two PCs
+
+## 2. Broadcast Communication
+- **Definition:** One sender communicates with all devices in the network
+- **Characteristics:** One-to-all, all devices receive data, may cause unnecessary traffic
+- **Example:** ARP request, TV/Radio broadcasting
+
+## 3. Multicast Communication
+- **Definition:** One sender communicates with a specific group of receivers
+- **Characteristics:** One-to-many, more efficient than broadcast, used in group communication
+- **Example:** Online video streaming (live sports), video conferencing
+
+## 4. Anycast Communication (Advanced)
+- **Definition:** One sender communicates with the nearest receiver among multiple receivers
+- **Characteristics:** One-to-nearest, improves performance and reduces latency
+- **Example:** Content Delivery Networks (CDNs), DNS queries
