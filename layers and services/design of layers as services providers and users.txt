@@ -1,0 +1,28 @@
+# Design of Layers as Service Providers and Users
+
+The layered architecture of computer networks is designed such that each **layer acts as a service provider** to the layer above it, while also being a **service user** of the layer below it.
+
+---
+
+## Key Principles
+1. **Modularity** → Each layer performs a specific function.
+2. **Service Provider** → A layer offers well-defined services to the upper layer.
+3. **Service User** → A layer uses the services of the layer directly below it.
+4. **Independence** → A layer does not need to know the internal working of the other layers, only the interface/services they provide.
+
+---
+
+## Example (Simplified)
+- **Application Layer** (e.g., Email, Chat apps) → User of Transport Layer services.
+- **Transport Layer** (TCP/UDP) → Provides reliable data transfer service to the Application Layer.
+- **Network Layer** (IP) → Provides addressing and routing services to the Transport Layer.
+- **Data Link Layer** → Provides error detection and framing service to the Network Layer.
+- **Physical Layer** → Provides actual bit transmission service to the Data Link Layer.
+
+---
+
+## Advantages of Layered Design
+- Simplifies complex communication into manageable parts.
+- Provides modularity (easy to update or replace a single layer).
+- Promotes interoperability (different technologies can work together).
+- Clear separation of responsibilities between layers.
