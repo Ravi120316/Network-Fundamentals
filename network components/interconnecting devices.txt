@@ -1,0 +1,48 @@
+# Interconnecting Devices
+
+In computer networks, interconnecting devices are used to connect multiple nodes and enable communication between them. They ensure that data is transmitted efficiently and correctly.
+
+---
+
+## 1. Hub
+- A basic device that connects multiple devices in a network.
+- It broadcasts incoming data to all connected devices.
+- **No intelligence** (does not check destination).
+- Used in small and simple networks.
+
+---
+
+## 2. Switch
+- More intelligent than a hub.
+- Forwards data only to the specific device whose **MAC address** matches.
+- Reduces collisions and improves efficiency.
+
+---
+
+## 3. Router
+- Connects different networks (e.g., LAN to WAN).
+- Routes data packets based on **IP addresses**.
+- Widely used in internet connections.
+
+---
+
+## 4. Bridge
+- Connects two different LANs.
+- Forwards data based on **MAC addresses**.
+
+---
+
+## 5. Gateway
+- Works as a **translator** between networks using different protocols.
+- Allows communication between dissimilar systems.
+- Examples: Email gateway, VoIP gateway.
+
+---
+
+## Summary
+- **Hub** → Broadcasts to all devices  
+- **Switch** → Sends data to correct device (MAC-based)  
+- **Router** → Connects networks (IP-based)  
+- **Bridge** → Connects two LANs  
+- **Gateway** → Connects networks with different protocols  
+
