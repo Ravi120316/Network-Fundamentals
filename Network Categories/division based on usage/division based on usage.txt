@@ -1,0 +1,24 @@
+# Network Categories: Division Based on Usage
+
+Networks can also be divided based on their usage type.
+
+## 1. Public Network
+- **Definition:** Open for everyone to access.
+- **Characteristics:** 
+  - Accessible by the general public
+  - Lower security
+  - Usually provided by ISPs (Internet Service Providers)
+- **Examples:** 
+  - Internet
+  - Free Wi-Fi in cafes, airports, railway stations
+
+## 2. Private Network
+- **Definition:** Restricted access, only specific users can use it.
+- **Characteristics:**
+  - High security
+  - Used within organizations or institutions
+  - Accessible only by authorized members
+- **Examples:**
+  - Office LAN (employees only)
+  - School/University campus networks
+  - Banking networks
