@@ -1,0 +1,43 @@
+# The Physical Connection
+
+The **Physical Connection** in a computer network refers to the medium through which devices are connected to transmit data. It can be established using either **wired** or **wireless** technologies.
+
+---
+
+## 1. Wired Connections
+Devices are connected using physical cables.
+- **Twisted Pair Cable** → Commonly used in Ethernet (LANs).
+- **Coaxial Cable** → Used in broadband and TV networks.
+- **Fiber Optic Cable** → High-speed, long-distance communication.
+
+**Advantages:**
+- Fast and reliable
+- More secure
+
+**Disadvantages:**
+- Limited mobility
+- Costly (especially fiber optic)
+
+---
+
+## 2. Wireless Connections
+Devices communicate using electromagnetic signals (no cables).
+- **Wi-Fi** → Local wireless networking
+- **Bluetooth** → Short-distance communication
+- **Infrared** → Limited range (e.g., remote controls)
+- **Microwave / Satellite** → Long-distance communication
+
+**Advantages:**
+- Flexible and mobile
+- Easy to install
+
+**Disadvantages:**
+- Less secure (prone to interference)
+- Generally slower than wired
+
+---
+
+## Summary
+- **Physical connection** = How devices are connected in a network.
+- **Wired** → Cables (fast, secure, less flexible).
+- **Wireless** → Signals (flexible, mobile, less secure).
