@@ -1,0 +1,28 @@
+# Cables for Wired Connection
+
+In networking, wired connections use different types of cables to transmit data. These cables carry data as electrical or light signals.
+
+## 1. Twisted Pair Cable
+- **Description:** Two insulated copper wires twisted together to reduce interference.
+- **Types:**
+  - **UTP (Unshielded Twisted Pair):** Common, inexpensive, widely used in LANs.
+  - **STP (Shielded Twisted Pair):** Has extra shielding for better protection against interference.
+- **Uses:** LAN, telecommunication
+- **Speed:** 10 Mbps to 1 Gbps
+
+## 2. Coaxial Cable
+- **Description:** Central copper conductor with insulation and metallic shield.
+- **Advantages:** Better protection against interference.
+- **Uses:** Cable TV, older Ethernet networks
+- **Speed:** Up to 10 Mbps
+
+## 3. Fiber Optic Cable
+- **Description:** Uses glass or plastic fibers to transmit data as light signals.
+- **Advantages:** Very high speed, no electromagnetic interference, supports long distances.
+- **Uses:** Internet backbone, long-distance communication, ISPs
+- **Speed:** Several Gbps to Tbps
+
+## Summary
+- **Twisted Pair:** Cheap, common in LAN
+- **Coaxial:** Better shielding, older technology
+- **Fiber Optic:** Fastest, modern and long-distance use
