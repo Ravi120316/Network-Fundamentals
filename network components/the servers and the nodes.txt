@@ -1,0 +1,28 @@
+# Servers and Nodes
+
+## 1. Nodes
+- A **Node** is any device connected to a network that can send, receive, or process data.
+- Examples: Computers, printers, switches, routers, smartphones, IoT devices.
+- Every connected device in a network is considered a node.
+
+### Example:
+In a LAN with 5 computers + 1 printer + 1 switch → Total nodes = 7.
+
+---
+
+## 2. Servers
+- A **Server** is a special type of node that provides services to other nodes (called clients) in a network.
+- Servers are usually powerful machines with high processing power and storage.
+- **Types of Servers:**
+  - **Web Server** → Hosts websites
+  - **Mail Server** → Manages emails
+  - **File Server** → Stores and shares files
+  - **Database Server** → Manages databases
+
+---
+
+## 3. Relationship between Nodes and Servers
+- **All Servers are Nodes, but not all Nodes are Servers.**
+- Meaning: Every server is a node (since it is part of the network), but every node is not necessarily a server.
+
+---
