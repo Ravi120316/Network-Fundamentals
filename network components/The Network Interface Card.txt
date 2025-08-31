@@ -1,0 +1,21 @@
+# The Network Interface Card (NIC)
+
+A **Network Interface Card (NIC)** is a hardware component that allows a computer or device to connect to a network and communicate with other devices.
+
+## Functions of NIC
+1. **Enables Communication:** Acts as a bridge between the computer and the network.
+2. **Provides Unique Address:** Each NIC has a unique MAC (Media Access Control) address used to identify the device in the network.
+3. **Data Conversion:** Converts computer data into electrical or wireless signals for transmission over the network.
+
+## Types of NIC
+- **Wired NIC:**
+  - Uses physical cables (Ethernet) for connection.
+  - Example: RJ-45 Ethernet NIC.
+- **Wireless NIC:**
+  - Uses radio signals (Wi-Fi) for connection.
+  - Example: Laptop Wi-Fi card.
+
+## Importance of NIC
+- Essential for connecting devices to any network.
+- Provides the medium for data transfer and communication.
+- Without a NIC, a computer cannot participate in a network.
