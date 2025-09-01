@@ -1,0 +1,41 @@
+# The Standardization Bodies
+
+In computer networking, **standardization bodies** are organizations responsible for developing and maintaining rules, protocols, and standards.  
+These standards ensure **interoperability, compatibility, and reliability** among devices, applications, and networks worldwide.  
+
+---
+
+## Major Standardization Bodies
+
+1. **ISO (International Organization for Standardization)**  
+   - Developed the **OSI Reference Model**.  
+   - Provides a framework for network architecture.  
+
+2. **IEEE (Institute of Electrical and Electronics Engineers)**  
+   - Defines LAN and MAN standards.  
+   - Example: IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi).  
+
+3. **IETF (Internet Engineering Task Force)**  
+   - Develops standards for Internet protocols (TCP/IP suite).  
+   - Example: HTTP, SMTP, DNS.  
+
+4. **ITU-T (International Telecommunication Union – Telecommunication Standardization Sector)**  
+   - Creates standards for telecommunication and networking.  
+   - Example: Telephone systems, broadband technologies.  
+
+5. **ANSI (American National Standards Institute)**  
+   - Coordinates U.S. standards.  
+   - Example: ASCII character encoding.  
+
+6. **W3C (World Wide Web Consortium)**  
+   - Focuses on web technologies.  
+   - Example: HTML, CSS, XML.  
+
+7. **ETSI (European Telecommunications Standards Institute)**  
+   - Defines standards for European telecommunication.  
+   - Example: GSM (Global System for Mobile communication).  
+
+---
+
+## Conclusion
+Standardization bodies play a critical role in ensuring that devices and networks across the globe can **interconnect, communicate, and operate seamlessly**.
