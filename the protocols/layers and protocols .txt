@@ -1,0 +1,29 @@
+# Layers and Protocols
+
+## What are Layers?
+- A **Layer** is a level in the network architecture where specific tasks of communication are performed.
+- Each layer is responsible for a particular function (e.g., error control, routing, encryption).
+- Layers make the design **modular**, simplifying understanding, development, and troubleshooting.
+
+---
+
+## What are Protocols?
+- A **Protocol** is a set of rules that governs how communication takes place between devices within a layer.
+- It defines **formats, timing, sequencing, and error control** for data exchange.
+
+---
+
+## Relation Between Layers and Protocols
+- Each layer performs its function using one or more protocols.
+- Layers provide services to the layer above and use the services of the layer below.
+- **Example:**
+  - **Transport Layer** uses **TCP** (reliable) or **UDP** (fast, connectionless).
+  - **Network Layer** uses **IP** for routing packets.
+
+---
+
+## Benefits of Using Layers and Protocols
+1. **Modularity** – Easier design and management.  
+2. **Interoperability** – Devices from different vendors can work together if they use the same protocols.  
+3. **Scalability** – New technologies can be integrated without redesigning the entire system.  
+
