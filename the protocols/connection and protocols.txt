@@ -1,0 +1,36 @@
+# Connections and Protocols
+
+## 1. Connections
+A **connection** is the link established between two or more devices to enable communication.  
+Connections can be **physical** (wired cables, Wi-Fi signals) or **logical** (software-level paths).  
+
+### Types of Connections:
+1. **Connection-Oriented**
+   - Requires a dedicated connection before data transfer.
+   - Reliable and maintains order of packets.
+   - Example: **TCP (Transmission Control Protocol)**.
+
+2. **Connectionless**
+   - No dedicated connection is established.
+   - Faster but less reliable (packet loss possible).
+   - Example: **UDP (User Datagram Protocol)**.
+
+---
+
+## 2. Protocols
+A **protocol** is a set of rules that govern how data is transmitted and received between devices in a network.  
+Without protocols, devices would not understand each other’s communication.  
+
+### Common Protocols:
+- **TCP/IP** → Foundation of the Internet.  
+- **HTTP/HTTPS** → For web communication.  
+- **FTP (File Transfer Protocol)** → For file transfers.  
+- **SMTP / POP3 / IMAP** → For email services.  
+- **DNS (Domain Name System)** → Converts domain names into IP addresses.  
+
+---
+
+## Relationship Between Connections and Protocols
+- **Connection** defines how the link is established (oriented or connectionless).  
+- **Protocol** defines the rules and format of communication.  
+- Together, they ensure smooth and standardized data exchange.
