@@ -1,0 +1,31 @@
+# Connection-Oriented vs Connectionless Protocols
+
+## 1. Connection-Oriented Protocols
+- Establish a **dedicated connection** between sender and receiver before data transfer.
+- Ensures reliability, error-checking, and ordered delivery of packets.
+- Slower compared to connectionless protocols due to overhead.
+- Example: **TCP (Transmission Control Protocol)**.
+
+**Analogy:** A phone call — connection is first established, then continuous communication happens.
+
+---
+
+## 2. Connectionless Protocols
+- No dedicated connection is established before sending data.
+- Each packet may take a different path to the destination.
+- Faster but less reliable (packets may be lost, duplicated, or arrive out of order).
+- Example: **UDP (User Datagram Protocol)**.
+
+**Analogy:** Sending postcards — each card travels independently and may arrive in a different order.
+
+---
+
+## Comparison Table
+
+| Feature                  | Connection-Oriented (TCP) | Connectionless (UDP) |
+|--------------------------|---------------------------|-----------------------|
+| Connection Establishment | Required before transfer  | Not required          |
+| Reliability              | High (error recovery)     | Low (no recovery)     |
+| Data Order               | Maintains order           | May arrive unordered  |
+| Speed                    | Slower                   | Faster                |
+| Example                  | TCP                      | UDP                   |
