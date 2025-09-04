@@ -1,0 +1,40 @@
+# Mobile Networking Applications
+
+**Mobile Networking** enables communication and data exchange through wireless technologies such as cellular networks (2G/3G/4G/5G), Wi-Fi, and Bluetooth.  
+It allows mobile and portable devices to stay connected without physical cables.
+
+---
+
+## Applications of Mobile Networking
+
+1. **Voice and Video Communication**
+   - Supports traditional voice calls and modern VoIP/video calls.
+   - Example: WhatsApp, Zoom, Google Meet.
+
+2. **Mobile Internet Access**
+   - Enables web browsing, social media, online shopping, and cloud services.
+
+3. **Mobile Banking and Payments**
+   - Allows digital transactions using apps like UPI, Google Pay, Paytm.
+
+4. **Location-Based Services (LBS)**
+   - Provides GPS navigation, ride-hailing (Uber, Ola), and food delivery tracking.
+
+5. **Entertainment**
+   - Supports online gaming, music streaming, and video streaming.
+   - Example: YouTube, Netflix, Spotify.
+
+6. **IoT and Smart Device Control**
+   - Connects and controls smart home devices through mobile apps.
+   - Example: Smart lights, ACs, cameras.
+
+7. **Emergency and Healthcare Services**
+   - Telemedicine, health monitoring, and emergency alert systems.
+
+8. **Social Networking**
+   - Instant connectivity via apps like Facebook, Instagram, Twitter (X), LinkedIn.
+
+---
+
+## Conclusion
+Mobile networking has made communication **faster, wireless, and accessible anywhere and anytime**, powering both personal and professional applications.
