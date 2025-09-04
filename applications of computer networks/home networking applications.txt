@@ -1,0 +1,33 @@
+# Home Networking Applications
+
+A **Home Network** connects multiple devices (computers, laptops, smartphones, smart TVs, IoT devices) within a household through wired (Ethernet) or wireless (Wi-Fi) connections.  
+It enables sharing of resources and provides convenience, automation, and security.
+
+---
+
+## Applications of Home Networking
+
+1. **Internet Sharing**
+   - Allows multiple devices to share a single Internet connection.
+   - Example: Wi-Fi router distributing Internet to all home devices.
+
+2. **File and Printer Sharing**
+   - Enables sharing of files, documents, and printers across devices.
+   - Example: Multiple family members using a single Wi-Fi printer.
+
+3. **Smart Home / IoT Control**
+   - Connects smart devices such as lights, ACs, cameras, and voice assistants.
+   - Example: Alexa or Google Home controlling smart appliances.
+
+4. **Multimedia Sharing**
+   - Allows streaming of videos, music, and photos between devices.
+   - Example: Casting from mobile to smart TV (Chromecast, DLNA).
+
+5. **Online Gaming**
+   - Supports multiplayer gaming within the home network or over the Internet.
+
+6. **Surveillance and Security**
+   - Connects CCTV cameras for live monitoring and security alerts.
+
+7. **Remote Access**
+   - Provides access to home computers or storage devices from anywhere using the Internet.
