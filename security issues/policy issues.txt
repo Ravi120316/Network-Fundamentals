@@ -1,0 +1,42 @@
+# Policy Issues in Computer Networks
+
+Policies in computer networks are a **set of rules and guidelines** that govern the responsible and secure use of network resources.  
+They ensure user privacy, data security, and legal compliance.
+
+---
+
+## Major Policy Issues
+
+1. **Privacy Policy**
+   - Protects user data from misuse.
+   - Defines what data is collected and how it is used.
+
+2. **Security Policy**
+   - Rules for access control, encryption, firewalls, and password management.
+   - Prevents unauthorized access and cyberattacks.
+
+3. **Acceptable Use Policy (AUP)**
+   - Defines what users can and cannot do on the network.
+   - Prohibits illegal downloads, offensive content, and hacking.
+
+4. **Intellectual Property Rights (IPR)**
+   - Ensures legal ownership and protection of digital content and software.
+
+5. **Access Control Policy**
+   - Provides role-based access to network resources.
+   - Limits unnecessary privileges.
+
+6. **Data Retention and Backup Policy**
+   - Defines how long data should be stored.
+   - Ensures backup and recovery in case of data loss.
+
+7. **Ethical and Legal Issues**
+   - Prevents cybercrimes, copyright violations, and harassment.
+
+---
+
+## Conclusion
+Policy issues are essential to ensure:
+- **Responsible use of resources**
+- **User rights protection**
+- **Network security and privacy**
