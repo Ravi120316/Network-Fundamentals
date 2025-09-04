@@ -1,0 +1,44 @@
+# Social Engineering in Computer Networks
+
+**Social Engineering** is a cyber-attack technique where attackers exploit **human psychology** instead of directly attacking systems.  
+The goal is to trick users into revealing sensitive information like passwords, financial details, or access credentials.
+
+---
+
+## Common Types of Social Engineering Attacks
+
+1. **Phishing**
+   - Fake emails or websites trick users into sharing login or financial information.  
+   - Example: “Your bank account is locked, click here to verify.”  
+
+2. **Vishing (Voice Phishing)**
+   - Attackers impersonate trusted people on phone calls to steal information.  
+   - Example: Fake bank calls asking for OTP.  
+
+3. **Smishing (SMS Phishing)**
+   - Fraudulent SMS messages with malicious links.  
+
+4. **Pretexting**
+   - Attackers create a fake story or reason to extract information.  
+   - Example: Impersonating IT support staff to ask for passwords.  
+
+5. **Baiting**
+   - Offering free/attractive items (e.g., infected USB drive, free downloads) to lure victims.  
+
+6. **Tailgating / Piggybacking**
+   - Gaining unauthorized physical access by following authorized personnel.  
+
+---
+
+## Prevention Methods
+
+- Never share OTPs, passwords, or sensitive details.  
+- Avoid clicking on unknown emails, SMS, or links.  
+- Conduct awareness and training programs.  
+- Use strict authentication and verification mechanisms.  
+
+---
+
+## Conclusion
+Social engineering attacks target **human weaknesses** rather than technology.  
+The best defense is a combination of **user awareness and strong authentication practices**.
