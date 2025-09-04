@@ -1,0 +1,37 @@
+# Hidden Dangers in Computer Networks
+
+While computer networks offer powerful benefits such as communication, resource sharing, and Internet access, they also pose **hidden dangers** that can compromise security, privacy, and reliability.
+
+---
+
+## Common Hidden Dangers
+
+1. **Data Theft**
+   - Hackers can steal confidential information like passwords, financial details, or private files.
+
+2. **Unauthorized Access**
+   - Intruders can gain access to systems or networks without permission.
+
+3. **Viruses and Malware**
+   - Harmful programs such as worms, trojans, and ransomware can spread through networks.
+
+4. **Phishing Attacks**
+   - Fake emails or websites are used to trick users into sharing sensitive information.
+
+5. **Denial of Service (DoS) Attacks**
+   - Networks or servers are overloaded to make services unavailable for genuine users.
+
+6. **Eavesdropping**
+   - Unauthorized interception of data transmission (e.g., Wi-Fi sniffing).
+
+7. **Identity Theft**
+   - Using someone else’s identity to commit fraud or access resources.
+
+8. **Loss of Privacy**
+   - Tracking of personal information, habits, and communications.
+
+---
+
+## Conclusion
+Hidden dangers in networks can cause severe financial, personal, and organizational damage.  
+**Security measures** such as firewalls, encryption, authentication, and monitoring are essential to mitigate these risks.
